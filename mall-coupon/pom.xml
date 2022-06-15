@@ -7,6 +7,13 @@
     <groupId>cn.swjtu.mall</groupId>
     <artifactId>mall-coupon</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <dependencies>
+        <dependency>
+            <groupId>cn.swjtu.mall</groupId>
+            <artifactId>mall-common</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+    </dependencies>
 
 
 </project>
